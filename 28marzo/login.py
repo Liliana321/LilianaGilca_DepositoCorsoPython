@@ -19,10 +19,10 @@ if name==corretto_name and pin==corretto_pin:
         case 'colore':
         # cambio colore 
             nuovo_colore = input("Inserisci il nuovo colore preferito: ")
-            print(f"Hai cambiato il colore preferito in {nuovo_colore}.")
+            print("Hai cambiato il colore preferito in {nuovo_colore}.")
         case 'animale':
             nuovo_animale = input("Inserisci il nuovo animale preferito: ")
-            print(f"Hai cambiato il colore preferito in {nuovo_animale}.")
+            print("Hai cambiato il colore preferito in {nuovo_animale}.")
         case _:
             print("Scelta non valida.")
 else:
