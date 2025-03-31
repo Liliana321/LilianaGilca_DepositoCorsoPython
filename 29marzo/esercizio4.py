@@ -74,7 +74,7 @@ while conteggio<element:
 print("il numero di elemnti nella lista sono ", conteggio)
 
 # lista è vuota se la lunghezza risulta essere 0 
-# altrimenti -> stampare il massimo 
+# altrimenti -> stampare il massimo attraverso un ciclo for 
 if len(lista)==0:
     print("Lista vuota")
 else: 
