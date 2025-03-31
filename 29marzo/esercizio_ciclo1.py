@@ -7,6 +7,7 @@ while controller:
 # conto alla rovescia:
 # start=contatore
 # stop=-1
+# step=-1
     for i in range(contatore,-1,-1):
         print(i)
 
