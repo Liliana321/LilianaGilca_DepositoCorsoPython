@@ -137,3 +137,5 @@ def menu_utente(utente):
     
 
 menu_principale()
+
+myDB.close()
