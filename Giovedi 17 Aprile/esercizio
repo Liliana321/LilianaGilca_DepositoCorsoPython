@@ -1,0 +1,22 @@
+# esercizio 
+import numpy as np
+import random
+
+
+# Creazione di un array
+# array monodimensionale e pluri . non ha bisogno di cambiare struttura dati 
+# lista,matrice --> uso la stessa struttura dati 
+# eseguire intere operazioni tramite array : creare somme,media
+
+
+
+#ar = np.array([10, 20, 30, 40, 50])
+
+#ar.sum() #metodo 
+
+ar1= np.random.randint(10,51,size=20)
+
+print(ar1[:10])
+print(ar1[-5:])
+print(ar1[5:15])
+print[ar1[::3]]
