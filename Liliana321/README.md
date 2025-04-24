@@ -56,8 +56,8 @@ Il percorso formativo è organizzato in 4 macro-moduli:
 Se hai domande, suggerimenti o desideri entrare in contatto con me, puoi trovarmi qui:
 
 - 📧 **Email**: liliana.gilca@email.com  
-- 💼 **LinkedIn**: [linkedin.com/in/lilianagilca]([https://linkedin.com/in/lilianagilca](https://www.linkedin.com/in/liliana-gilca-52a119356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-- 💻 **GitHub**: [github.com/lilianagilca]([https://github.com/lilianagilca](https://github.com/Liliana321/LilianaGilca_DepositoCorsoPython/tree/main/Liliana321))  
+- 💼 **LinkedIn**: [linkedin.com/in/lilianagilca]([https://linkedin.com/in/lilianagilca](https://www.linkedin.com/in/liliana-gilca-52a119356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💻 **GitHub**: [github.com/lilianagilca]([https://github.com/lilianagilca](https://github.com/Liliana321/LilianaGilca_DepositoCorsoPython/tree/main/Liliana321) 
 
 ---
 
