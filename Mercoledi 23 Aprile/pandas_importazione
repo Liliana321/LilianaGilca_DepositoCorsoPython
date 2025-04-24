@@ -1,0 +1,30 @@
+
+import pandas as pd  # Importa la libreria pandas
+
+# Creazione di un DataFrame da un dizionario
+data = {'nome': ['Alice', 'Bob'], 'età': [25, 30]}
+df = pd.DataFrame(data)  # Crea un DataFrame con due colonne: 'nome' e 'età'
+
+# Selezione di una colonna
+ages = df['età']
+
+# Filtraggio basato su una condizione
+adults = df[df['età'] >= 18]
+
+
+
+# Caricamento di un DataFrame da un file CSV
+df_csv = pd.read_csv('data.csv')  # Legge un file CSV e lo carica in un DataFrame
+
+df_sorted = df.sort_values(by='età')
+
+merged_df = pd.merge(df, df_csv, on='nome')
+
+
+
+# Applicazione di una funzione a una colonna
+df['età_doppia'] = df['età'].apply(lambda x: x * 2)
+
+# Esportazione di un DataFrame in un file CSV
+df.to_csv('data_output.csv')
+
